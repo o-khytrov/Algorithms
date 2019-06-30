@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListLoop", "LinkedLis
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1", "Task1\Task1.csproj", "{04EB33D3-0D4E-463E-A36C-15DEF3A4E16F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{8308B359-E35A-4E6C-9FF8-03031D7C097A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{04EB33D3-0D4E-463E-A36C-15DEF3A4E16F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04EB33D3-0D4E-463E-A36C-15DEF3A4E16F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04EB33D3-0D4E-463E-A36C-15DEF3A4E16F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8308B359-E35A-4E6C-9FF8-03031D7C097A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8308B359-E35A-4E6C-9FF8-03031D7C097A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8308B359-E35A-4E6C-9FF8-03031D7C097A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8308B359-E35A-4E6C-9FF8-03031D7C097A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
